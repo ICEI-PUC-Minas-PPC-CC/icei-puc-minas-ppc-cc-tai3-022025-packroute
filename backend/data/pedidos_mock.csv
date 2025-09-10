@@ -1,0 +1,5 @@
+pedido,endereco,valor,janela_inicio,janela_fim
+1,"Rua A, 100",15,08:00,09:00
+2,"Rua B, 200",20,09:30,10:30
+3,"Rua C, 300",10,08:45,09:45
+4,"Rua D, 400",25,10:00,11:00

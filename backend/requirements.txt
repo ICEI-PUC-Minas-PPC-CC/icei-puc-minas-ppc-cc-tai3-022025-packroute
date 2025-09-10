@@ -1,0 +1,4 @@
+FastAPI
+pandas
+ortools
+requests
