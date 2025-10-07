@@ -65,3 +65,43 @@ concorrência, modelo de precificação, peridicidade e métricas.
   - ICMS - não aplicável por entregarmos apenas serviços.
   - INSS patronal - somente se houver contratação CLT.
 - Obrigações Acessórias: emissão de notas fiscais de serviço (NFS-e), pagamento mensal do DAS, declaração DEFIS anual, escrituração contábil mínima.
+ 
+---
+
+## 4. análise de ambiente 
+### Concorrentes
+
+Concorrente 1: **iFood**
+
+- Atuação: Principal plataforma de delivery do Brasil, conectando restaurantes, mercados e farmácias aos consumidores.
+- Diferenciais: Ampla base de usuários e estabelecimentos parceiros; forte reconhecimento de marca; programa de fidelidade (iFood Benefícios).
+- Preços: Cobra taxas variáveis dos estabelecimentos (até 27% sobre o valor do pedido) e taxas fixas de entrega.
+- Canais: Aplicativo móvel (Android/iOS) e site; forte presença em mídias sociais e campanhas televisivas.
+- Público-alvo: Consumidores urbanos, entre 18 e 45 anos, que buscam conveniência e variedade.
+- Ameaça: Grande poder de mercado e alta fidelização de usuários e restaurantes.
+- Oportunidade: O iFood ainda não otimiza múltiplas entregas de diferentes lojas em uma mesma rota, o que abre espaço para diferenciação logística.
+
+Concorrente 2: **Rappi**
+
+- Atuação: Plataforma multinacional que oferece delivery de restaurantes, farmácias, mercados e até serviços pessoais.
+- Diferenciais: Entregas rápidas (“RappiTurbo”), assinatura mensal com frete grátis e sistema de cashback.
+- Preços: Taxas de entrega variáveis; modelo premium (RappiPrime).
+- Canais: Aplicativo e site, com integração a campanhas digitais e parcerias com grandes marcas.
+- Público-alvo: Jovens adultos conectados e de alto poder aquisitivo.
+- Ameaça: Alto investimento em tecnologia e marketing, dificultando a entrada de novos players.
+- Oportunidade: Apesar de sua abrangência, o Rappi foca em conveniência, não em eficiência de rotas — o que permite posicionar o novo app como uma solução mais sustentável e econômica.
+
+Concorrente 3: **Zé Delivery**
+
+- Atuação: App de entrega de bebidas da Ambev, com foco em conveniência e rapidez.
+- Diferenciais: Entregas em poucos minutos, estoques locais e preços competitivos de bebidas.
+- Preços: Produtos próximos aos valores de mercado com taxa de entrega reduzida.
+- Canais: Aplicativo e forte presença em mídias digitais; parcerias com bares e distribuidores locais.
+- Público-alvo: Jovens entre 18 e 35 anos que buscam agilidade em entregas específicas (bebidas e conveniência).
+- Ameaça: Alta eficiência logística em um nicho específico, com forte integração com fornecedores.
+- Oportunidade: O foco limitado (bebidas) abre espaço para uma solução mais ampla, com entregas diversas e otimizadas por rota.
+
+
+### Matriz SWOT
+https://www.canva.com/design/DAG1JvKFy8k/hDh9BeiDOaHkdmMYnxI-nA/view?utm_content=DAG1JvKFy8k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hec589cf58e
+
