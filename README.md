@@ -59,6 +59,8 @@ https://pnbox.sebrae.com.br/planoNegocio/invite/Cy6Pfc24c
 * **Justificativa:** O modelo de assinatura cria uma receita recorrente. O valor do plano Pro é facilmente coberto pelo aumento de ganhos que a plataforma proporciona, tornando a proposta de valor clara.
 
 ### 5️⃣ SWOT (Análise de Ambientes)
+Link plano de negócios:
+* https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/plano_de_negocio.md
 [![SWOT — PackRoute](assets/img/SWOT.png)]([https://seu-link-aqui.com](https://www.canva.com/design/DAG1JvKFy8k/hDh9BeiDOaHkdmMYnxI-nA/view?utm_content=DAG1JvKFy8k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hec589cf58e))
 * **Forças:** Solução inovadora com forte apelo, modelo de negócio escalável, **algoritmo de IA proprietário como barreira de entrada e diferencial competitivo**.
 * **Fraquezas:** Dependência das APIs de terceiros, **complexidade no desenvolvimento e treinamento dos modelos de IA**, necessidade de uma massa crítica de dados para a IA ser eficaz.
