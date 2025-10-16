@@ -68,14 +68,7 @@ Link plano de negócios:
 * **Ameaças:** Os próprios apps de delivery desenvolverem uma funcionalidade similar, mudanças nas políticas de privacidade das plataformas, questões regulatórias.
 
 ### 6️⃣ Planejamento Estratégico (BSC)
-
-* **Objetivos estratégicos:**
-    * **Financeiro:** Atingir o ponto de equilíbrio (break-even) em 18 meses.
-    * **Cliente:** Alcançar uma nota média de 4.7 nas lojas de apps e um NPS de 60.
-    * **Processos Internos:** Garantir um uptime do serviço de 99.8% e acurácia de 95% nas previsões de ETA da IA.
-    * **Aprendizado e Crescimento:** Construir um time de alta performance em desenvolvimento e ciência de dados.
-* **Indicadores e metas:** Número de assinantes ativos, CAC, LTV, taxa de churn, engajamento com as features de IA.
-* **Ações planejadas:** Lançamento de campanhas de marketing, programa de indicação, desenvolvimento de novas features com base no feedback dos usuários.
+* **Planilha de Planejamento estratégico:** [Planilha](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/Planejamento%20Estrat%C3%A9gico%20-%20PackRoute.xlsx)
 
 ### 7️⃣ Fluxo de Caixa
 
