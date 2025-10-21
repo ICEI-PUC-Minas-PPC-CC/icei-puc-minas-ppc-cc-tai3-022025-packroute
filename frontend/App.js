@@ -1,34 +1,16 @@
-import { StatusBar } from 'expo-status-bar';
-import { KeyboardAvoidingView, Platform, ScrollView, Text, View } from 'react-native';
-import { styles } from './App.styles';
-import { Button } from './src/components/Button/index'
+import { NavigationContainer } from '@react-navigation/native'
+import { createNativeStackNavigator } from '@react-navigation/native-stack'
+import LoginScreen from './src/screens/LoginScreen' 
+import HomeScreen from './src/screens/HomeScreen' 
+
+const Stack = createNativeStackNavigator()
 
 export default function App() {
   return (
-
-    <KeyboardAvoidingView 
-      style={styles.container}
-      behavior={Platform.OS === 'ios' ? 'padding' : 'height'}>
-
-      <ScrollView style={styles.scrollView}>
-
-        <View style={styles.content}>
-          <StatusBar style="light" />
-          
-          <View style={styles.header}>
-            <Text style={styles.title}>PackRoute</Text>
-            <Text style={styles.subTitle}>Otimizador de entregas</Text>
-          </View>
-
-          <View style={styles}>
-            <Button variant='primary' text={'Registrar-se'}></Button>
-            <Button variant='primary' text={'Entrar'}></Button>
-          </View>
-
-          
-        </View>
-
-      </ScrollView>
-    </KeyboardAvoidingView>
+    <NavigationContainer>
+      <Stack.Navigator initialRouteName="Home" screenOptions={{ headerShown: false }}>
+        <Stack.Screen name="Home" component={HomeScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 }
