@@ -27,7 +27,7 @@ export default function HomeScreen() {
       setRegion(initialRegion);
       setLocation(current.coords);
 
-      // Atualização em tempo real
+      //Real time position
       const subscriber = await Location.watchPositionAsync(
         { accuracy: Location.Accuracy.High, distanceInterval: 5 },
         (loc) => {
@@ -46,7 +46,7 @@ export default function HomeScreen() {
     })();
   }, []);
 
-  // Botão de centralizar no mapa
+  //Center map
   const handleCenterMap = () => {
     if (location && mapRef.current) {
       mapRef.current.animateToRegion({
@@ -57,10 +57,8 @@ export default function HomeScreen() {
     }
   };
 
-  // Botão de iniciar entregas
   const handleStartDeliveries = () => {
-    Alert.alert('Rota iniciada!', 'O sistema está calculando a melhor rota de entregas...');
-    // Aqui você futuramente chamará a lógica de otimização de rota
+    Alert.alert('Rota iniciada!', 'Calculando a melhor rota para as entregas...');
   };
 
   return (
@@ -88,12 +86,10 @@ export default function HomeScreen() {
         <Text style={styles.loadingText}>Carregando mapa...</Text>
       )}
 
-      {/* Botão Centralizar */}
       <TouchableOpacity style={styles.centerButton} onPress={handleCenterMap}>
         <Text style={styles.buttonText}>📍</Text>
       </TouchableOpacity>
 
-      {/* Botão Iniciar Entregas */}
       <TouchableOpacity style={styles.startButton} onPress={handleStartDeliveries}>
         <Text style={styles.startButtonText}>Iniciar Entregas</Text>
       </TouchableOpacity>
