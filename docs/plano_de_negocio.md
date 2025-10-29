@@ -105,3 +105,13 @@ Concorrente 3: **Zé Delivery**
 ### Matriz SWOT
 https://www.canva.com/design/DAG1JvKFy8k/hDh9BeiDOaHkdmMYnxI-nA/view?utm_content=DAG1JvKFy8k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hec589cf58e
 
+
+## 5. Análise do Fluxo de Caixa
+
+A análise do fluxo de caixa para os primeiros quatro meses (Jan-Abr 2026) revela a dependência crítica de um Aporte Inicial de R$ 50.000,00 em janeiro. Este aporte permite à empresa cobrir as despesas operacionais iniciais, resultando em um saldo acumulado positivo nos dois primeiros meses (Jan: R$ 28.330,55; Fev: R$ 6.832,99).
+
+Contudo, a partir de fevereiro, o projeto opera com um déficit mensal significativo. As despesas totais, impulsionadas principalmente pelos custos fixos (especialmente Salários de R$ 20.000,00), giram em torno de R$ 23.200 a R$ 23.350. As receitas de "Assinaturas Pro", embora crescentes (de R$ 1.734,20 em fevereiro para R$ 2.302,30 em abril), são insuficientes para cobrir esses custos.
+
+Como resultado, o Saldo Acumulado torna-se negativo em março (R$ -14.453,33) e atinge R$ -35.503,10 em abril. A projeção indica que o capital inicial será totalmente consumido no terceiro mês de operação. A sustentabilidade do negócio depende urgentemente de um aumento expressivo na aquisição de clientes para que as receitas de assinaturas superem o ponto de equilíbrio dos custos mensais.
+https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/fluxo_de_caixa.xlsx
+
