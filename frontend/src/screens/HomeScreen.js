@@ -3,11 +3,14 @@ import { View, Text, TouchableOpacity, Alert } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 import * as Location from 'expo-location';
 import { styles } from '../styles/homeStyles';
+import { GOOGLE_MAPS_API_KEY } from '@env';
 
 export default function HomeScreen() {
   const [location, setLocation] = useState(null);
   const [region, setRegion] = useState(null);
   const mapRef = useRef(null);
+
+  const apiKey = GOOGLE_MAPS_API_KEY;
 
   useEffect(() => {
     (async () => {
