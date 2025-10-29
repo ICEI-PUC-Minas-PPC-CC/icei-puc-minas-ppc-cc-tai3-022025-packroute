@@ -72,7 +72,7 @@ Link plano de negócios:
 
 ### 7️⃣ Fluxo de Caixa
 
-* **Planilha do fluxo projetado:** \[Link para a planilha de Fluxo de Caixa projetado para 24 meses]
+* **Planilha do fluxo projetado:** \[Fluxo de Caixa](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-packroute/blob/main/docs/fluxo_de_caixa.xlsx)
 * **Principais considerações:** Projeção conservadora de crescimento de 15% ao mês no número de assinantes após o lançamento.
 
 ### 8️⃣ Valuation
