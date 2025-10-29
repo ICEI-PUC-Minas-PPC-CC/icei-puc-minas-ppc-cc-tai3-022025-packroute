@@ -99,11 +99,11 @@ Link plano de negócios:
 
 | Entrega                                | Data       | Descrição                                                       | Status         |
 |----------------------------------------|------------|-----------------------------------------------------------------|----------------|
-| Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                    | ✅ Concluído |
-| Custos e Tributos                      | 03/09/2025 | Planilha com custos fixos, variáveis e tributos                 | 🚧 Em andamento |
-| Análise SWOT / Plano de Negócios       | 24/09/2025 | Análise de ambientes SWOT e entrega do Plano de Negócios        | ⏳ A fazer      |
-| Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | ⏳ A fazer      |
-| Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                              | ⏳ A fazer      |
+| Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                    | ✅ Concluído  |
+| Custos e Tributos                      | 03/09/2025 | Planilha com custos fixos, variáveis e tributos                 | 🚧 Em andamento|
+| Análise SWOT / Plano de Negócios       | 24/09/2025 | Análise de ambientes SWOT e entrega do Plano de Negócios        | ✅ Concluído   |
+| Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | ✅ Concluído|
+| Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                              | 🚧 Em andamento|
 | Apresentação Final                     | 12/11/2025 | Pitch final do projeto PackRoute                                | ⏳ A fazer      |
 
 ## 🗣️ Feedbacks Recebidos
